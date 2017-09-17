@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <!-- Required elements-->
+        <id>Naxam.LibPhoneNumber.Droid</id>
+        <version>8.5.2</version>
+        <description>Xamarin.Android Binding Library - LibPhoneNumber</description>
+        <authors>NAXAM CO.,LTD</authors>
+        <owners>NAXAM CO.,LTD</owners>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <title>Naxam - LibPhoneNumber for Android</title>
+        <releaseNotes>LibPhoneNumber v8.5.2</releaseNotes>
+        <summary>Xamarin.Android Binding Library - LibPhoneNumber</summary>
+        <iconUrl>https://avatars2.githubusercontent.com/u/5503833</iconUrl>
+        <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+        <projectUrl>https://github.com/NAXAM/libphonenumber-android-binding</projectUrl>
+        <copyright>Copyright (c) 2017 NAXAM</copyright>
+        <tags>Xamarin.Android, libphonenumber</tags>
+        <dependencies>
+            <!-- <dependency id="Naxam.BrainTree.Core" version="8.5.2" />
+            <dependency id="Naxam.Paypal.OneTouch" version="8.5.2" />
+            <dependency id="Xamarin.GooglePlayServices.Wallet" version="42.1021.1" /> -->
+        </dependencies>
+    </metadata>
+    <!-- Optional 'files' node -->
+    <files>
+        <file src="Naxam.LibPhoneNumber.Droid/bin/Release/Naxam.LibPhoneNumber.Droid.dll" target="lib/MonoAndroid10/Naxam.LibPhoneNumber.Droid.dll" />
+    </files>
+</package>

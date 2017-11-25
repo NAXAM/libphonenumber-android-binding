@@ -23,7 +23,7 @@ Install-Package Naxam.LibPhoneNumber.Droid
 
 This library is created to be used as a dependency for another library.
 
-Plz follow its origin guide [here](https://github.com/googlei18n/libphonenumber/blob/master/README.md).
+Plz follow the origin guide [here](https://github.com/googlei18n/libphonenumber/blob/master/README.md).
 
 ## License
 

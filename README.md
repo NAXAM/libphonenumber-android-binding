@@ -30,6 +30,11 @@ Plz follow the origin guide [here](https://github.com/googlei18n/libphonenumber/
 LibPhoneNumber binding library for Android is released under the MIT license.
 See [LICENSE](./LICENSE) for details.
 
+## Backers
+Most of our libraries are built with our own effort at very small funding or just side projects.
+However, maintaining binding libraries always takes a lot of time and effort.
+Sometimes, people ask us for the latest version, we couldn't afford to upgrade for free due to many other higher prioritized works. Become a backer is the best way to help us always arrange resources to maintain (upgrade and fix issue) binding libraries.
+
 # Get our showcases on AppStore/PlayStore
 Try our showcases to know more about our capabilities. 
 
